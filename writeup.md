@@ -29,3 +29,7 @@ out the `flag.txt` file. I did this because of the fact that without using a pas
 
 ![sudo-i-u user2 bash copy](https://github.com/user-attachments/assets/0dc33d43-0037-49e2-9492-ddb3f69b0dfd)
 
+
+
+
+-> Part 2
