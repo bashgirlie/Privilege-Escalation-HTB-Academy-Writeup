@@ -32,4 +32,4 @@ out the `flag.txt` file. I did this because of the fact that without using a pas
 
 
 
--> Part 2
+-> [Part 2](https://github.com/bashgirlie/Privilege-Escalation-HTB-Academy-Writeup-pt2)
